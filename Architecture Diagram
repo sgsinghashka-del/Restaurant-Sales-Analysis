@@ -1,0 +1,29 @@
+              CSV DATA
+                  │
+                  ▼
+        ┌──────────────────┐
+        │ Data Processing  │
+        └────────┬─────────┘
+                 │
+        ┌────────▼─────────┐
+        │ Feature          │
+        │ Engineering      │
+        └────────┬─────────┘
+                 │
+        ┌────────▼─────────┐
+        │ XGBoost Demand   │
+        │ Prediction       │
+        └────────┬─────────┘
+                 │
+        ┌────────▼─────────┐
+        │ Business         │
+        │ Recommendations  │
+        └────────┬─────────┘
+                 │
+       ┌─────────┴──────────┐
+       ▼                    ▼
+   SQLite / SQL       Streamlit
+   Analytics          Dashboard
+                           │
+                           ▼
+                    Streamlit Cloud

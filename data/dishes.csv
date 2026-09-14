@@ -1,0 +1,19 @@
+dish_id,dish_name,category,selling_price,ingredient_cost,demand_weight
+D01,Paneer Tikka,Starters,260,92,1.3
+D02,Butter Chicken,Main Course,340,156,1.15
+D03,Veg Biryani,Rice & Biryani,240,96,1.1
+D04,Chicken Biryani,Rice & Biryani,320,148,1.28
+D05,Margherita Pizza,Pizza,390,148,0.98
+D06,Farmhouse Pizza,Pizza,460,186,0.88
+D07,Masala Dosa,South Indian,190,62,0.92
+D08,Chole Bhature,North Indian,180,58,0.82
+D09,Dal Makhani,Main Course,220,78,0.96
+D10,Hakka Noodles,Chinese,230,84,0.93
+D11,Manchurian,Chinese,210,74,0.86
+D12,Tandoori Chicken,Starters,360,165,0.78
+D13,Gulab Jamun,Dessert,120,34,0.72
+D14,Brownie,Dessert,150,46,0.68
+D15,Cold Coffee,Beverages,160,42,0.76
+D16,Fresh Lime Soda,Beverages,110,28,0.7
+D17,Veg Burger,Fast Food,220,82,0.73
+D18,Chicken Burger,Fast Food,280,112,0.8

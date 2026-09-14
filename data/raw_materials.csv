@@ -1,0 +1,16 @@
+material_id,material_name,category,shelf_life_days,unit_cost,reorder_level,supplier_id
+M01,Paneer,Dairy,7,320,40,S01
+M02,Chicken,Meat,3,280,80,S02
+M03,Basmati Rice,Grains,180,110,120,S03
+M04,Wheat Flour,Grains,90,52,150,S03
+M05,Tomato,Vegetables,7,48,100,S04
+M06,Onion,Vegetables,20,36,120,S04
+M07,Cream,Dairy,10,210,35,S01
+M08,Mozzarella Cheese,Dairy,30,420,30,S01
+M09,Potato,Vegetables,20,34,100,S04
+M10,Cooking Oil,Staples,180,145,70,S05
+M11,Coffee Beans,Beverages,60,620,20,S06
+M12,Cocoa Powder,Baking,365,480,10,S07
+M13,Bread,Bakery,5,45,40,S08
+M14,Lime,Vegetables,10,85,40,S04
+M15,Noodles,Grains,180,95,80,S03

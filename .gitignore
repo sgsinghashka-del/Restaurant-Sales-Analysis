@@ -1,0 +1,47 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Environment Variables
+.env
+.env.*
+
+# Logs
+*.log
+
+# Temporary Files
+*.tmp
+*.temp
+
+# OS Files
+.DS_Store
+
+# Python Build
+build/
+dist/
+*.egg-info/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# SQLite Database
+restaurant.db

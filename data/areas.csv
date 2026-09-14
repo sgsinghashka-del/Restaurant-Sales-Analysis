@@ -1,0 +1,9 @@
+area_id,area_name,city,region,operating_cost_index
+A01,Connaught Place,Delhi,North,1.18
+A02,Andheri West,Mumbai,West,1.25
+A03,Koramangala,Bengaluru,South,1.1
+A04,Hinjewadi,Pune,West,0.92
+A05,C Scheme,Jaipur,North,0.78
+A06,Salt Lake,Kolkata,East,0.84
+A07,Banjara Hills,Hyderabad,South,1.02
+A08,Viman Nagar,Pune,West,0.88

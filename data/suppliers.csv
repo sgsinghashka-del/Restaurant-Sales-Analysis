@@ -1,0 +1,9 @@
+supplier_id,supplier_name,lead_time_days,supplier_rating
+S01,Fresh Dairy Distributors,2,4.7
+S02,Prime Poultry Foods,2,4.5
+S03,Grain Basket Supplies,5,4.4
+S04,Green Farm Produce,1,4.2
+S05,Kitchen Essentials Ltd,4,4.3
+S06,BeanCraft Roasters,6,4.6
+S07,BakePro Ingredients,7,4.1
+S08,Daily Bake House,1,4.0

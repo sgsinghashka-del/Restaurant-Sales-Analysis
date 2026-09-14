@@ -395,6 +395,6 @@ Dashboard sections:
 [[View Live Dashboard]](https://restaurant-sales-analysis-x2jjqzhnjzw43qckzrgopm.streamlit.app/)
 
 💻 GitHub Repository
-[View Source Code]https://github.com/sgsinghashka-del/Restaurant-Sales-Analysis/edit/main/README.md
+[View Source Code]https://github.com/sgsinghashka-del/Restaurant-Sales-Analysis/tree/main
 
 

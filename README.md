@@ -390,3 +390,11 @@ Dashboard sections:
 4. Dish Performance
 5. Area Performance
 6. Inventory In
+
+🚀 Live Demo
+[[View Live Dashboard]](https://restaurant-sales-analysis-x2jjqzhnjzw43qckzrgopm.streamlit.app/)
+
+💻 GitHub Repository
+[View Source Code]https://github.com/sgsinghashka-del/Restaurant-Sales-Analysis/edit/main/README.md
+
+
